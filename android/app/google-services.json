@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "710922927442",
+    "project_id": "notificationdeeplinking-ebc14",
+    "storage_bucket": "notificationdeeplinking-ebc14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710922927442:android:53bfd14233330e77b08e8b",
+        "android_client_info": {
+          "package_name": "com.push_notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN8mxrZyfMaaHp5d6qQkpkLPylvNwEkmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
